@@ -1,1 +1,1 @@
-# fiminol.github.io
+Забавный проект
